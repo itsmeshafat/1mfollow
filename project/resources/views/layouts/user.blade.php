@@ -15,6 +15,10 @@
     <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/odometer.css" />
     <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/owl.min.css" />
     <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/main.css" />
+    <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/2lug4h6ujh6g3ur2.css">
+    <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/1429twyczgt2awrm.css">
+    <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/cuw6iix855efzrw3.css">
+    <link rel="stylesheet" href="{{asset('assets/frontend')}}/css/ny6mhzbbh07u28pq.css">
   
     <link rel="shortcut icon" href="{{asset('assets/frontend')}}/images/favicon.png" type="image/x-icon" />
 
@@ -74,6 +78,12 @@
     <script src="{{asset('assets/frontend')}}/js/lightbox.min.js"></script>
     <script src="{{asset('assets/frontend')}}/js/owl.min.js"></script>
     <script src="{{asset('assets/frontend')}}/js/main.js"></script>
+    <script type="text/javascript" src="assets/admin/js/yl65qr86p7yn1l29.js"></script>
+    <script type="text/javascript" src="assets/admin/js/plfhebjcep5qq2i8.js"></script>
+    <script type="text/javascript" src="assets/admin/js/3y01tbac13p45qiw.js"></script>
+    <script type="text/javascript" src="assets/admin/js/f21km1wfwdprcgf4.js"></script>
+    <script type="text/javascript" src="assets/admin/js/lg3doaboik9s1p7d.js"></script>
+    <script type="text/javascript" src="assets/admin/js/0r4tywzonxftumui.js"></script>
   
     @include('notify.alert')
     @stack('script')
